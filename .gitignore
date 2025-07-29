@@ -1,0 +1,21 @@
+email-microservice
+
+*.test
+*.exe
+
+*.swp
+
+*.log
+
+ Dockerfile
+docker-compose.yml
+
+.env
+
+go.mod
+go.sum
+
+.vscode
+.idea
+
+build.sh
